@@ -1,5 +1,5 @@
 # Car-Speed-Detection
-This project is a simulation of a Car speed detector using IR sensors. This simulated using Proteus Software
+This project is a simulation of a Car speed detector using IR sensors. This is simulated using Proteus Software
 
 PRINCIPLE: 
 IR Sensors are the main part of the project that detect the speed of a vehicle. Practically, you can implement the setup of IR Sensors in many ways but in this project, I have used two reflective type IR Sensors and placed them 5cm apart. 
